@@ -45,7 +45,7 @@ devtools::install_github("STAT545-UBC-students/hw07-katiezinn/INST_GROWTH")
 See the vignette for more extensive use, but here's an example:
 
 ```{r example}
-#INST_GROWTH::instantaneous_growth(15, 12, 5)
+INST_GROWTH::instantaneous_growth(15, 12, 5)
 ```
 
 ## For Developers
