@@ -1,6 +1,6 @@
 #' Fish growth snippet from Katie's summer 2018 field work
 #'
-#' @format length is in mm
+#' @format length is in mm, these are all integers
 #' @source Katie Zinn
 #' @description Data source for the package
   "growthdata"
