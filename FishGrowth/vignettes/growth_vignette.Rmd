@@ -1,5 +1,5 @@
 ---
-title: "Fish Growth Vignette"
+title: "Growth Vignette"
 author: "Katie Zinn"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
