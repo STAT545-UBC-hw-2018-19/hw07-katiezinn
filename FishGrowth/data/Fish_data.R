@@ -1,9 +1,10 @@
 #' Fish growth snippet from Katie's summer 2018 field work
 #'
+#' @export
 #' @format length is in mm, these are all integers
 #' @source Katie Zinn
 #' @description Data source for the package
-  "growthdata"
+  "Fish_data"
 
 #final length
 fn_ln <- c(145.5, 147, 132, 127, 150.5, 153.5, 131.5, 148.5, 152.5, 128)

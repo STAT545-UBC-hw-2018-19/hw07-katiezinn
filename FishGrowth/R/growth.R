@@ -8,9 +8,7 @@
 #' A list that is the:
 #'      \item result (for \code{instantaneous_growth})
 #' @rdname instantaneous_growth
-#' @example instantaneous_growth(15, 14, 5)
 #' @export
-
 instantaneous_growth <- function(f, i, d) {
   growth <- ((log(f) - log(i)) / d)*100
   return(list(growth = growth))
