@@ -23,7 +23,7 @@ FishGrowth
 
 This is an R package that allows you to calculate the instantaneous growth of a fish using this calculation:
 
-Instantaneous growth = ( ( LN(final\_length) - LN(initial\_length) ) / \# days between measurements ) \*100
+Instantaneous growth = ( ( LN(final\_length) - LN(initial\_length) ) / # days between measurements ) * 100
 
 It is a useful function for comparing the growth rates of fish between experimental treatments.
 
