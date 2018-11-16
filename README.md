@@ -11,10 +11,10 @@ Welcome to my 7th homework assignment. Please click [here](https://github.com/ST
 What did I do in this assignment?
 ---------------------------------
 
--   I... made a new package!!!
+-   I... made a new package!!! :heavycheckmark:
     -   It was absolutely terrifying for me but I hope it was worthwhile so I can get some use out of it during my thesis.
 -   Define and export one new function, i.e. make it available to a user upon loading the package.
-    -   a function to calculate instantaneous growth of fish
+    -   a function to calculate instantaneous growth of fish 
 -   Give function arguments sensible defaults, where relevant.
 -   Document all exported functions.
 -   Include at least three unit tests for your new function that test common use cases that you anticipate of the function.
