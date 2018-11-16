@@ -3,7 +3,8 @@ Type: Package
 Title: Instantaneous Growth of Fish
 Version: 0.1.0
 Author: Katie Zinn
-Maintainer: Katie Zinn <zinn@zoology.ubc.ca>
+Authors@R: person("Katie", "Zinn", email = "zinn@zoology.ubc.ca",
+  role = c("aut", "cre"))
 Description: This package will help you calculate the instantaneous growth of fish.     The calculation is as so: Instantaneous growth = ( (LN(final length) - LN(initial length)) / days between measurements ) * 100
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -11,5 +12,6 @@ LazyData: true
 RoxygenNote: 6.1.0
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat
 VignetteBuilder: knitr
