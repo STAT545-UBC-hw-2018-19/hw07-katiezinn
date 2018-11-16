@@ -24,6 +24,14 @@ nameEx("hello")
 flush(stderr()); flush(stdout())
 
 base::assign(".ptime", proc.time(), pos = "CheckExEnv")
+### Name: hello
+### Title: Hello, World!
+### Aliases: hello
+
+### ** Examples
+
+hello()
+
 
 
 base::assign(".dptime", (proc.time() - get(".ptime", pos = "CheckExEnv")), pos = "CheckExEnv")
