@@ -8,7 +8,7 @@
 #' A list that is the:
 #'      \item result (for \code{instantaneous_growth})
 #' @rdname instantaneous_growth
-#' @example instantaneous_growth(15, 14, 5)
+#' @example instantaneous_growth(fish_data$fn_ln, fish_data$in_ln, fish_data$days)
 #' @export
 
 instantaneous_growth <- function(f, i, d) {
