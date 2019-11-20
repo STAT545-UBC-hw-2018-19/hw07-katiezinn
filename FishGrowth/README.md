@@ -1,11 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-hw07-katiezinn
-==============
 
-hw07-katiezinn created by GitHub Classroom
-
-Welcome to my 7th homework assignment! For this assignment I added created a package that allows us to calculate the instantaneous growth of fish.
 
 [![Build Status](https://travis-ci.org/katiezinn/FishGrowth.svg?branch=master)](https://travis-ci.org/katiezinn/FishGrowth)
 
